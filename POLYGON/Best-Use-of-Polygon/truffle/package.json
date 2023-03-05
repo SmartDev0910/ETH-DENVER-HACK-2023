@@ -1,0 +1,14 @@
+{
+  "name": "truffle-project",
+  "version": "0.1.0",
+  "description": "Truffle project with SimpleStorage contract",
+  "scripts": {
+    "test": "truffle test",
+    "deploy:mumbai": "truffle migrate --network mumbai",
+    "deploy:chiado": "truffle migrate --network chiadoTestnet"
+  },
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.1.7",
+    "dotenv": "^16.0.3"
+  }
+}
