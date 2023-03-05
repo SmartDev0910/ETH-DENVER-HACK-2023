@@ -8,6 +8,7 @@
     <img src="./all_trade_flow.png" />
   </p>
   
+ ## Video How to Trade, Add/Remove Liquidity and Get Faucet using ALLTRADE App: https://youtu.be/4w6uKsVNnOs
  ## Contract Deployed Address
  
  - [x] Perpetual Address: https://blockscout.scroll.io/address/0x07C9a8a78D5D819F03d1685E6F994E6Caa57fdfB
