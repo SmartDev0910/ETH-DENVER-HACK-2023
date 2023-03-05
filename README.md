@@ -28,7 +28,7 @@
 
 
 # TELLOR
-### 1. Using Tellor. [SOURCE](https://github.com/Agin-DropDisco/ETH-DENVER-2023/tree/main/TELLOR)
+### 1. Using Tellor. [SOURCE](https://github.com/Agin-DropDisco/ETH-DENVER-HACK-2023/tree/main/TELLOR)
 
 
 # FILECOIN/IPFS
