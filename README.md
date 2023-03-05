@@ -1,5 +1,5 @@
 # ETH-DENVER-2023
-### Team Name: Zonulet Team
+### Team Name: Zonulet
 ### Team Member: 
 **1. Agin DropDisco**
 - [x] LINKEDIN: https://www.linkedin.com/in/agin-dropdisco-5555b7171/
