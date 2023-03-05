@@ -21,3 +21,17 @@
   <p align="center">
     <img src="https://raw.githubusercontent.com/Agin-DropDisco/ETH-DENVER-HACK-2023/main/CHAINLINK/connect-the-world-with-chainlink/CHAINLINK_FLOW.png" />
   </p>
+
+  
+  # How to Mint NFT, Buy/Sell and Gifted NFT
+  youtube
+  
+  ## Contracts Address
+  - [x] [DexSwapZonu](https://mumbai.polygonscan.com/address/0xb054102df5c8b66d8b7f58344964f86e9e2d3e00)
+  - [x] [ZonuletNFT](https://mumbai.polygonscan.com/address/0xF136607Ed9766507c2D99EbB2Abf0d7C773e3f2f)
+  - [x] [ZonuletNFTLikes](https://mumbai.polygonscan.com/address/0x3444064BA645B8a061DCD47c28C0Fd3c506eb13B) 
+  - [x] [ZonuletNFTSale](https://mumbai.polygonscan.com/address/0xaF27687753694b9944c0AD08A800683C6FE7bEec)  
+  - [x] [ZonuletAvatars](https://mumbai.polygonscan.com/address/0x40D6Ed2986Ce7748Ab2F272f4AAa082Fee7F199F)    
+  - [x] [ZonuletVerified](https://mumbai.polygonscan.com/address/0x4d2CEc6be0D0e69f56b1B7E4DEe17585549CB9F1)   
+  - [x] [ZonuletBlacklist](https://mumbai.polygonscan.com/address/0x57b6eF1d9b57271De7430c8d5d36fc26941094D0)   
+  - [x] [Zonulet:](https://mumbai.polygonscan.com/address/0x216eD590Cb7Ec3417CAb82699ae493522fECf580)    
