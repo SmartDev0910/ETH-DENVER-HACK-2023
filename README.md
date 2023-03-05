@@ -36,3 +36,6 @@
 
 # SCROLL
 ### 1. Deploy Your Smart Contract on Scroll. [SOURCE](https://github.com/Agin-DropDisco/ETH-DENVER-HACK-2023/tree/main/SCROLL/Deploy-your-smart-contract-on-Scroll)
+
+# POLYGON
+### 1. Best Use of Polygon. [SOURCE](https://github.com/Agin-DropDisco/ETH-DENVER-HACK-2023/tree/main/POLYGON/Best-Use-of-Polygon)
