@@ -5,7 +5,7 @@
 - [x] LINKEDIN: https://www.linkedin.com/in/agin-dropdisco-5555b7171/
 - [x] GITHUB: https://github.com/Agin-DropDisco
 
-**1. Adinda Ratnawati Ridwan**
+**2. Adinda Ratnawati Ridwan**
 - [x] LINKEDIN: https://www.linkedin.com/in/adinda-ratnawati-ridwan-20a980170/
 - [x] GITHUB: https://github.com/adinda-ratna
 
