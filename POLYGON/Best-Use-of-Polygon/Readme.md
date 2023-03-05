@@ -23,8 +23,8 @@
   </p>
 
   
-  # How to Mint NFT, Buy/Sell and Gifted NFT
-  youtube
+  # How to Mint NFT, Buy/Sell and Gifted NFT: https://youtu.be/lKaNJh5QnmE
+
   
   ## Contracts Address
   - [x] [DexSwapZonu](https://mumbai.polygonscan.com/address/0xb054102df5c8b66d8b7f58344964f86e9e2d3e00)
