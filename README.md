@@ -1,4 +1,14 @@
 # ETH-DENVER-2023
+### Team Name: Zonulet Team
+### Team Member: 
+**1. Agin DropDisco**
+- [x] LINKEDIN: https://www.linkedin.com/in/agin-dropdisco-5555b7171/
+- [x] GITHUB: https://github.com/Agin-DropDisco
+
+**1. Adinda Ratnawati Ridwan**
+- [x] LINKEDIN: https://www.linkedin.com/in/adinda-ratnawati-ridwan-20a980170/
+- [x] GITHUB: https://github.com/adinda-ratna
+
 
 ### Challenges:
 
@@ -22,4 +32,7 @@
 
 
 # FILECOIN/IPFS
-### 1. Best project using Filecoin Virtual Machine (FVM). [SOURCE](https://github.com/Agin-DropDisco/ETH-DENVER-2023/tree/main/TELLOR)
+### 1. Best project using Filecoin Virtual Machine (FVM).[SOURCE](https://github.com/Agin-DropDisco/ETH-DENVER-HACK-2023/tree/main/FILECOIN/Best-project-using-Filecoin-Virtual-Machine-(FVM))
+
+# SCROLL
+### 1. Deploy Your Smart Contract on Scroll. [SOURCE](https://github.com/Agin-DropDisco/ETH-DENVER-HACK-2023/tree/main/SCROLL/Deploy-your-smart-contract-on-Scroll)
